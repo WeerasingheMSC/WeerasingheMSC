@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<a href="https://imgur.com/cXZXY3T"><img src="https://i.imgur.com/cXZXY3T.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/1YJaPLC"><img src="https://i.imgur.com/1YJaPLC.gif" title="source: imgur.com" /></a>
 
 ## 📌 About Me
 - 🧛 I have hands-on experience in full-stack development, cloud integration, and system design, with strong skills in React, Node.js, Spring Boot, and AWS.
